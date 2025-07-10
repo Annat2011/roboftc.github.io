@@ -17,7 +17,7 @@ The insert features bearings on two sides—one for continuous string rigging an
 
 ## Download & Access
 
-<a href="../downloads/counterspringinginserts.step" download>Download Here</a>
+<a href="../public/downloads/counterspringinginserts.step" download>Download Here</a>
 
 ## Photos
 <img src="/images/csi.png" width="400" height="400" style="border: 4px solid #1b1b1f;">
